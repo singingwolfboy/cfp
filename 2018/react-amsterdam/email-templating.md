@@ -47,3 +47,44 @@ to Lambda as well.
   - Rendering PDFs using headless Chrome
   - Open source codebase
 - Questions?
+
+# Previous talks
+
+- DjangoCon 2017: Django vs Flask
+  - Video: https://youtu.be/UY2JMZjQspY
+  - Slides: https://archive.org/details/djangocon-us-2017-django-vs-flask
+- PyCon 2017: Looping Like a Pro in Python
+  - Video: https://youtu.be/u8g9scXeAcI
+  - Slides: https://archive.org/details/pycon-2017-looping
+- PyDX 2016: Advanced Git
+  - Video: https://youtu.be/ZdIuFuIM3dM
+  - Slides: https://archive.org/details/AdvancedGit
+- PyGotham 2016: Advanced Git
+  - no video available
+  - Slides: https://speakerdeck.com/singingwolfboy/advanced-git-2
+- PyCon 2016: Prototyping APIs in Flask
+  - Video: https://youtu.be/6RdZNiyISVU
+  - Slides: https://speakerdeck.com/singingwolfboy/prototyping-apis-with-flask
+- PyCon 2016: Get Started with Git
+  - Video: https://youtu.be/Qthor07loHM
+  - Slides: https://speakerdeck.com/singingwolfboy/get-started-with-git
+- PyCon 2015: Advanced Git
+  - Video: https://youtu.be/4EOZvow1mk4
+  - Slides: https://speakerdeck.com/singingwolfboy/advanced-git
+
+# Country and City
+
+Amsterdam, Netherlands
+
+# Picture of me
+
+https://d2qb4730w42llr.cloudfront.net/static/images/headshot.jpg
+
+# Bio
+
+David Baumgold is a senior web developer specializing in React and Python.
+He is an avid contributor to open source software, and he enjoys travel,
+teaching, learning, and working together with others. He is currently living
+in Amsterdam and working for Impraise.
+
+
